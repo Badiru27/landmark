@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748987680474",
+    "project_id": "landmark-52acb",
+    "storage_bucket": "landmark-52acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748987680474:android:b6f3d46be6f1326b5b47e3",
+        "android_client_info": {
+          "package_name": "com.example.landmark_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748987680474-q2u5qe3i38t5isads69spdhpqq0qr077.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnY_UcxxvRLyg9pjzT7ZqndIOkR0dQjBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748987680474-q2u5qe3i38t5isads69spdhpqq0qr077.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
